@@ -1,0 +1,1 @@
+<a href="{{ route($route . '.' . 'edit', $item->id) }}" class="tip" title="{{ trans('plugins.language::language.current_language') }}"><i class="fa fa-check text-success"></i></a>
